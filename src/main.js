@@ -2,11 +2,14 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+import '@/assets/styles/index.less'
 import './plugins/element.js'
 import * as echarts from 'echarts'
+import dataV from '@jiaminghi/data-view'
 
 Vue.config.productionTip = false
 Vue.prototype.$echarts = echarts
+Vue.use(dataV)
 new Vue({
   router,
   store,

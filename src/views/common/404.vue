@@ -7,22 +7,22 @@
             <img
                 alt="401"
                 class="pic-error-parent"
-                src="~@/assets/images/error_images/404.png"
+                src="~@/assets/images/error-images/404.png"
             />
             <img
                 alt="401"
                 class="pic-error-child left"
-                src="~@/assets/images/error_images/cloud.png"
+                src="~@/assets/images/error-images/cloud.png"
             />
             <img
                 alt="401"
                 class="pic-error-child"
-                src="~@/assets/images/error_images/cloud.png"
+                src="~@/assets/images/error-images/cloud.png"
             />
             <img
                 alt="401"
                 class="pic-error-child"
-                src="~@/assets/images/error_images/cloud.png"
+                src="~@/assets/images/error-images/cloud.png"
             />
           </div>
         </el-col>

@@ -6,7 +6,7 @@ export default [
     {
         path:'/home',
         name:'Home',
-        component: ()=>import('@/views/common/Home'),
+        component: ()=>import('@/views/common/home'),
         meat:{
             title:'首页'
         }
@@ -14,7 +14,7 @@ export default [
     {
         path:'/about',
         name:'About',
-        component:()=>import('@/views/common/About'),
+        component:()=>import('@/views/common/about'),
         meat:{
             title: '关于本网站'
         }
